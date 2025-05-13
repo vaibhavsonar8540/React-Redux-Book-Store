@@ -1,0 +1,3 @@
+export const REQUEST = "GET_PRODUCT_REQUEST";
+export const SUCCESS = "GET_PRODUCT_SUCCESS";
+export const ERROR = "GET_PRODUCT_ERROR";
